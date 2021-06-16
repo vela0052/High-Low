@@ -1,2 +1,4 @@
-# mtm6404-high-low
-This repository contains the starter files for the High Low project.
+# High Low
+
+## Objective
+Use the Vue framework to create a number guessing game.
