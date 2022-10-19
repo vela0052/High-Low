@@ -1,4 +1,4 @@
 # High Low
 
 ## Objective
-Use the Vue framework to create a number guessing game.
+Use React and local storage to create a number-guessing game.
